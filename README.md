@@ -5,5 +5,5 @@
 </div>
 
 # 👨‍💻 RockFreakRickerd
-![RockFreak GitHub stats](https://github-readme-stats.vercel.app/api?username=RockFreakRickerd&theme=tokyonight&show_icons=true)
+![RockFreak GitHub stats](https://github-readme-stats.vercel.app/api?username=RockFreakRickerd&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true)
 ![RockFreak Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RockFreakRickerd&theme=tokyonight&layout=compact&langs_count=8)
