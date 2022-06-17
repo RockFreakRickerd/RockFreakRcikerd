@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif" width="600" height="300"/>
-</div>
+<img src="https://komarev.com/ghpvc/?username=RockFreakRickerd&style=flat-square&color=blue" alt=""/>
 
 # RockFreakRickerd
 ![RockFreak GitHub stats](https://github-readme-stats.vercel.app/api?username=RockFreakRickerd&theme=tokyonight&show_icons=true)
