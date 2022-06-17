@@ -6,4 +6,4 @@
 
 # 👨‍💻 RockFreakRickerd
 ![RockFreak GitHub stats](https://github-readme-stats.vercel.app/api?username=RockFreakRickerd&bg_color=30,43cea2,185a9d&title_color=fff&text_color=fff&show_icons=true)
-![RockFreak Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RockFreakRickerd&theme=tokyonight&layout=compact&langs_count=8)
+![RockFreak Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RockFreakRickerd&bg_color=30,43cea2,185a9d&title_color=fff&text_color=ff&layout=compact&langs_count=8)
